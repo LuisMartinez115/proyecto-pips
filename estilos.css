@@ -1,0 +1,88 @@
+#principal{
+    background-image: url(https://www.xtrafondos.com/wallpapers/estructura-abstracta-3d-gris-oscuro-3593.jpg);
+}
+#t1{
+    text-align: center;
+    color: lawngreen;
+    font-size: 60px;
+}
+#yo{
+    text-align: center;
+}
+#ejemplo{
+    text-align: center;
+}
+a,li{
+    color: rgb(255, 255, 255);
+}
+/* pagina de c++ */
+#cpp{ 
+
+    background-image:url(https://www.xtrafondos.com/wallpapers/vertical/degradado-difuminado-azul-7935.jpg)
+    ;
+}
+h1{
+    color: rgb(0, 4, 255);
+}
+h4{
+    color:rgb(69, 0, 133);
+}
+#precaucion{
+    color: rgb(170, 0, 0);
+}
+h6{
+    color: rgb(42, 151, 15);
+}
+/* pagunas de impresoras */
+#imp{
+background-image: url(https://www.xtrafondos.com/wallpapers/resoluciones/19/rectangulos-iluminacion-neon-3d_2560x1440_3583.jpg);
+background-size: 100%;
+}
+#impresora{
+    text-align: center;
+    color: rgb(238, 255, 2);
+    font-size: 60px;
+}
+.tex{
+    color:  rgb(255, 255, 255);
+    font-size: 35px;
+}
+.tex2{
+    color: rgb(214, 250, 82);
+    font-size: 35px;
+}
+ul{
+    font-size: 30px;
+}
+.inf{
+    font-size: 25px;
+}
+.tit{
+    color: chartreuse;
+    font-size: 30px;
+}
+#inf{
+    color: rgba(255, 254, 254, 0.842);
+    font-size: 20px;
+}
+#sla{
+    text-align: center;
+}
+#puntos{
+    font-size: 30px;
+}
+/* paginas de problemas easy de c++ */
+#prt{
+    color: rgb(68, 68, 172);
+    text-align: center;
+    font-size: 500%;
+}
+#pli{
+    color: rgba(0, 0, 0, 0.842);
+    text-align: center;
+    font-size: 150%;
+}
+.fond{
+    background-image: url(https://www.xtrafondos.com/wallpapers/nebula-en-el-espacio-6792.jpg);
+    
+}
